@@ -34,7 +34,7 @@ This paper studies short-term forecasting of Canadian real GDP and its expenditu
 [Paper](https://www.bankofcanada.ca/2018/08/staff-discussion-paper-2018-9/)
 
 ### Global Real Activity for Canadian Exports: GRACE
-*(with Andr&eacute Binette, Daniel de Munnik)*
+*(with Andr&eacute; Binette, Daniel de Munnik)*
 
 Canadian exports have often disappointed since the Great Recession. The apparent disconnect between exports and the Bank of Canada’s current measure of foreign demand has created an impetus to search for an alternative. Based on a dynamic factor model (DFM) methodology, we use a broad range of international economic indicators (close to 300) to estimate external demand for Canadian exports. The new measure, Global Real Activity for Canadian Exports (GRACE), follows Binette et al. (2014) who suggest that a mix of global final expenditure and production variables could help better identify activity relevant to Canadian exports. They also suggest that non?US variables might be relevant. GRACE uses final expenditure and production variables not only from the United States but also for all of Canada’s major trading partners. We apply this approach to total exports and 14 subaggregates of Canadian exports. Overall, we find that this new measure has good theoretical and empirical properties, especially for higher-level aggregates.
 
