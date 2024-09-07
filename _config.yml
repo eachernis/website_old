@@ -68,9 +68,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.ca/citations?user=p15qbN0AAAAJ&hl=en"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Bank of Canada Profile"
+      icon: "fa-regular fa-building"
+      url: "https://www.bankofcanada.ca/profile/tony-chernis/"
 
 footer:
   links:
