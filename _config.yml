@@ -71,6 +71,9 @@ author:
     - label: "Bank of Canada Profile"
       icon: "fa-regular fa-building"
       url: "https://www.bankofcanada.ca/profile/tony-chernis/"
+    - label: "Contact"
+      icon: "fa-regular fa-envelope"
+      url: "mailto:eachernis@gmail.com"
 
 footer:
   links:
