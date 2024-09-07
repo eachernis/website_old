@@ -3,8 +3,6 @@ permalink: /research/
 title: "Research"
 ---
 
-# Research
-
 ## Working Papers
 
 ### Decision synthesis in monetary policy
