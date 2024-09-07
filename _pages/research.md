@@ -37,3 +37,11 @@ This paper estimates a three-frequency dynamic factor model for nowcasting the C
 
 [Published Version](https://www.sciencedirect.com/science/article/pii/S016920701930250X) [Working Paper](https://www.bankofcanada.ca/2017/06/staff-discussion-paper-2017-8/)
 
+### A Dynamic Factor Model for Nowcasting Canadian GDP Growth
+*(with Rodrigo Sekkel)*  
+*Empirical Economics, 2017*
+
+This paper estimates a dynamic factor model (DFM) for nowcasting Canadian gross domestic product. The model is estimated with a mix of soft and hard indicators, and it features a high share of international data. The model is then used to generate nowcasts, predictions of the recent past and current state of the economy. In a pseudo-real-time setting, we show that the DFM outperforms univariate benchmarks, as well as other commonly used nowcasting models, such as MIDAS and bridge regressions.
+
+[Published Version](https://link.springer.com/article/10.1007/s00181-017-1254-1) [Working Paper](https://www.bankofcanada.ca/2017/02/staff-working-paper-2017-2/))
+
