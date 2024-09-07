@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Tony Chernis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am Principal Economist at the Bank of Canada and a PhD candidate at University of Strathclyde "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -74,15 +74,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://eachernis.github.io/website/"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.ca/citations?user=p15qbN0AAAAJ&hl=en"
+    - label: "Bank of Canada Profile"
+      icon: "fa-regular fa-building"
+      url: "https://www.bankofcanada.ca/profile/tony-chernis/"
 
 defaults:
   # _posts
