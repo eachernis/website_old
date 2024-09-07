@@ -24,7 +24,7 @@ Bayesian predictive synthesis (BPS) provides a method for combining multiple pre
 ## Publications
 
 ### Combining Large Numbers of Density Predictions with Bayesian Predictive Synthesis
-*Studies in Nonlinear Dynamics & Econometrics 2023
+*Studies in Nonlinear Dynamics & Econometrics, 2023*
 
 Bayesian Predictive Synthesis is a flexible method of combining density predictions. The flexibility comes from the ability to choose an arbitrary synthesis function to combine predictions. I study choice of synthesis function when combining large numbers of predictions – a common occurrence in macroeconomics. Estimating combination weights with many predictions is difficult, so I consider shrinkage priors and factor modelling techniques to address this problem. These techniques provide an interesting contrast between the sparse weights implied by shrinkage priors and dense weights of factor modelling techniques. I find that the sparse weights of shrinkage priors perform well across exercises.
 
@@ -32,8 +32,8 @@ Bayesian Predictive Synthesis is a flexible method of combining density predicti
 
 
 ### A three-frequency dynamic factor model for nowcasting Canadian provincial GDP growth
-*(with Calista Cheung, Gabriella Velasco)*
-*International Journal of Forecasting 2020
+*(with Calista Cheung, Gabriella Velasco)*  
+*International Journal of Forecasting, 2020*
 
 This paper estimates a three-frequency dynamic factor model for nowcasting the Canadian provincial gross domestic product (GDP). The Canadian provincial GDP at market prices is released by Statistics Canada annually with a significant lag (11 months). This necessitates a mixed-frequency approach that can process timely monthly data, the quarterly national accounts, and the annual target variable. The model is estimated on a wide set of provincial, national and international data. In a pseudo real-time exercise, we find that the model outperforms simple benchmarks and is competitive with more sophisticated mixed-frequency approaches (MIDAS models). We also find that variables from the Labour Force Survey are important predictors of real activity. This paper expands previous work that has documented the importance of foreign variables for nowcasting Canadian GDP. This paper finds that including national and foreign predictors is useful for Ontario, while worsening the nowcast performance for smaller provinces.
 
