@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Tony Chernis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am Principal Economist at the Bank of Canada and a PhD candidate at University of Strathclyde "
+  bio    : "I am a Bayesian Econometrician working as a Principal Economist at the Bank of Canada and a PhD candidate at University of Strathclyde "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
